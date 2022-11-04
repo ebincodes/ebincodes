@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebin
-- 👀 I’m interested in codeing with powerful technologies like Laravel, Typescript, React
+- 👀 I’m interested in coding with powerful technologies like Laravel, Typescript, React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me - ebin.codes@gmail.com
